@@ -1,0 +1,1 @@
+This is the third project of the module IZP at FIT. We were supposed to find a way through a maze made of triangles. I have earned bonus points for adding optional shortest path feature.
